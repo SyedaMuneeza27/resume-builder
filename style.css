@@ -67,7 +67,7 @@ body{
     font-size: 1rem;
   }
   
-  /* .skill button{
+   .skill button{
     background-color: #0a2ea4;
     color: #ffffff;
     border: none;
@@ -76,7 +76,7 @@ body{
     height: 100%;
     width: 40px;
     border-radius: 5px;
-  } */
+  } 
   
   @media (max-width: 768px) {
     .background {
